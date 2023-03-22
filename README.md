@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas Shakil</h1>
-<h3 align="center">Full stack engineer</h3>
+<h3 align="center">Full Stack Engineer</h3>
 
 - 🔭 I’m currently working on [Node-Metadata](https://github.com/anasshakil/metadata)
 
