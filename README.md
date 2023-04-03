@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on [validator.js](https://github.com/validatorjs/validator.js)
 
-- 📫 How to reach me **github@anasshakil.dev**
-
 - 📄 Know about my experiences [anasshakil.dev](https://anasshakil.dev)
 <br/>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anasshakil&show_icons=true&locale=en&layout=compact" alt="anasshakil" /></p>
